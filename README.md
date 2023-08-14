@@ -1,5 +1,7 @@
 # NuxtJS > price-charting
 
+![preview](./components/assets/preview.png)
+
 ### Descrição 
 
 - Este projeto é desenvolvido usando o framework Nuxt.js, uma estrutura baseada em Vue.js que facilita a construção de aplicações universais. O objetivo principal do projeto é permitir que os usuários pesquisem e visualizem detalhes de produtos específicos. A interface apresenta uma tabela que lista produtos com informações básicas. Ao selecionar um produto, os usuários podem ver detalhes adicionais sobre ele em uma tabela separada.

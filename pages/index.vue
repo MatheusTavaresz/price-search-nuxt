@@ -24,7 +24,7 @@
             <td class="text-center">{{ produto.price2 }}</td>
             <td class="text-center">{{ produto.price3 }}</td>
           </tr>
-         <table class="py-5 text-center">
+         <table class="text-center">
           <thead class="productDetailsThead" v-if="produto.id === selectedProductId">
             <tr>
               <th colspan="5" class="text-center">Detalhes do produto</th>
